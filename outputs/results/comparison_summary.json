@@ -1,0 +1,18 @@
+{
+  "acc_chance": 0.1,
+  "acc_raw_input": 0.81,
+  "acc_fly_test": 0.755,
+  "acc_fly_cv": 0.776,
+  "acc_random_test": 0.77,
+  "acc_random_cv": 0.8009999999999999,
+  "cv_scores_random": [
+    0.82,
+    0.785,
+    0.79,
+    0.805,
+    0.805
+  ],
+  "test_difference": -0.015000000000000013,
+  "cv_difference": -0.02499999999999991,
+  "ratio": 0.9805194805194805
+}

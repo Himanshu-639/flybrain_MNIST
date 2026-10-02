@@ -1,0 +1,46 @@
+# Environments and Secrets
+.env
+.env*.local
+.env.*
+!.env.example
+*.token
+*.key
+credentials.json
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.pyd
+
+# Virtual Environments
+.venv/
+venv/
+env/
+ENV/
+flybrain_env/
+
+# Datasets and large raw data
+data/
+*.gz
+*.tar
+*.zip
+
+# Large data binaries and dataframes
+*.npy
+*.npz
+*.csv
+outputs/*.csv
+outputs/*.npy
+outputs/results/*.npy
+
+# Operating System and IDE files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
